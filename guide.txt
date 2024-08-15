@@ -1,0 +1,12 @@
+1. npm create vite@latest ./ -- --template react
+  create-vite@5.5.1
+
+2. npm i -D tailwindcss & npx tailwindcss init
+
+3. npm install @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+4.install tailwindcss for vite [if error occurs]
+
+
+1_ideas: The computer screen should be live and responsive.
+2_ideas: The keyboard and mouse of the model should also work
